@@ -1,0 +1,13 @@
+{
+  "panels": {
+    "ticket": {
+      "options": []
+    }
+  },
+  "tickets": {},
+  "settings": {
+    "staffRole": null,
+    "logChannel": null,
+    "maxTickets": 1
+  }
+}
